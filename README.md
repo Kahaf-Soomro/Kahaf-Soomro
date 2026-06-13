@@ -33,9 +33,3 @@ public class AboutMe {
     levelUp();
 }
 }
-
-```yaml
-
-open_to:
-  - Collaboration on interesting projects
-  - Learning opportunities
