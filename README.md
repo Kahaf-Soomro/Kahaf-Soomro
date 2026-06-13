@@ -1,6 +1,5 @@
 # Hey, I'm Muhammad Kahaf 👋
-
-Software Engineering Student • Full-Stack Developer • Mobile App Developer • Indie Game Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00BFFF&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Mobile+App+Developer;Indie+Game+Developer)](https://git.io/typing-svg)
 - 📍 Pakistan
 - 💻 Building projects with Java, Flutter, and Firebase
 - 🎮 Occasionally experimenting with game mechanics and indie game prototypes
