@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Muhammad Kahaf 👋
 
-<!--
-**Kahaf-Soomro/Kahaf-Soomro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student • Full-Stack Developer • Mobile App Developer • Indie Game Developer
 
-Here are some ideas to get you started:
+📍 Pakistan
+💻 Building projects with Java, Flutter, React, and Firebase
+🎮 Occasionally experimenting with game mechanics and indie game prototypes
+📚 Currently learning System Design, Software Architecture, and scalable application development
+🚀 Interested in creating software that people genuinely enjoy using
+```java 
+public class AboutMe {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    private final String role =
+        "Software Engineering Student";
+
+    private final String[] techStack = {
+        "Java", "Flutter", "Dart",
+        "Firebase", "SQL", "Git", "LibGDX"
+    };
+
+    public final String[] interests = {
+        "Full-Stack Development",
+        "Mobile Applications",
+        "Software Architecture",
+        "System Design",
+        "Indie Game Development"
+    };
+  public void currentFocus() {
+    buildUsefulThings();
+    shipProjects();
+    prototypeGames();
+    exploreNewTechnologies();
+    levelUp();
+}
+}
+
+```yaml
+
+open_to:
+  - Collaboration on interesting projects
+  - Learning opportunities
