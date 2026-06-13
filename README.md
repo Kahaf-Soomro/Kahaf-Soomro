@@ -39,3 +39,5 @@ open_to:
   - Collaboration on interesting projects
   - Learning opportunities
 ```
+
+![snake gif](https://raw.githubusercontent.com/Kahaf-Soomro/Kahaf-Soomro/output/github-contribution-grid-snake.svg)
