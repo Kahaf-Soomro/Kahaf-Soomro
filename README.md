@@ -3,7 +3,7 @@
 Software Engineering Student • Full-Stack Developer • Mobile App Developer • Indie Game Developer
 
 📍 Pakistan
-💻 Building projects with Java, Flutter, React, and Firebase
+💻 Building projects with Java, Flutter, and Firebase
 🎮 Occasionally experimenting with game mechanics and indie game prototypes
 📚 Currently learning System Design, Software Architecture, and scalable application development
 🚀 Interested in creating software that people genuinely enjoy using
@@ -33,3 +33,10 @@ public class AboutMe {
     levelUp();
 }
 }
+```
+```yaml
+
+open_to:
+  - Collaboration on interesting projects
+  - Learning opportunities
+```
